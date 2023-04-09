@@ -1,0 +1,35 @@
+<!doctype html>
+<html>
+    <head>
+        <title>sample</title>
+        <link rel="icon" href="images/Flag_of_Ethiopia.svg">
+    </head>
+    ><body>
+        <h1>Ethiopia in my toung!!</h1>
+        <p style="text-align: center; width: 100%; height: 100;"><img src="images/Flag_of_Ethiopia.svg" alt="The flag of ethiopia">  </p>
+
+        
+        <h2>Frist of all what is ethiopia?</h2>
+        <h3>Ethiopia, officially the Federal Democratic Republic of Ethiopia, is a landlocked country located in the Horn of Africa.
+             It shares borders with Eritrea to the north, Djibouti to the northeast, Somalia to the east and northeast, Kenya to the south,
+              South Sudan to the west, and Sudan to the northwest.
+               Ethiopia has a total area of 1,100,000 square kilometres (420,000 square miles).</h3>
+               <h1><b>History</b>
+                <hr>
+
+
+               </h1>
+               <p><i>main article:</i><a href="mama ethiopia">history of ethiopia</a></p>
+               <p><i>further information:</i><a href="">ethiopian histography</a>
+               </p>
+               <h2>Prehistory</h2>
+               <p>Main article:<a href="">pre historic ethiopia</a></p>
+               <p>Several important finds have propelled Ethiopia and the surrounding region to the forefront of palaeontology.
+                 The oldest hominid discovered to date in Ethiopia is the 4.2 million-year-old Ardipithecus ramidus (Ardi) found by Tim D. 
+                 White in 1994.[45] The most well-known hominid discovery is Australopithecus afarensis (Lucy).
+                  Known locally as Dinkinesh, the specimen was found in the Awash Valley of Afar Region in 1974 by Donald Johanson, 
+                  and is one of the most complete and best preserved adult Australopithecine fossils ever uncovered. 
+                  Lucy's taxonomic name refers to the region where the discovery was made.
+                 This hominid is estimated to have lived 3.2 million years ago.[46][47][48]</p>
+    </body>
+     </html>
